@@ -1,0 +1,4 @@
+# comentario
+#ignore all the txt files
+*.txt
+*.zip
